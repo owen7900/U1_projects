@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="T:/ISS-ICS4UP-1/COMMON/jars/BreezySwing.jar"/>
+	<classpathentry kind="lib" path="T:/ISS-ICS4UP-1/COMMON/jars/hsa.jar"/>
+	<classpathentry kind="lib" path="T:/ISS-ICS4UP-1/COMMON/jars/TerminalIO.jar"/>
+	<classpathentry kind="lib" path="T:/ISS-ICS4UP-1/COMMON/jars/TurtleGraphics.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
